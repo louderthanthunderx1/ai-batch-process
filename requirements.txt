@@ -1,0 +1,17 @@
+flask
+flask[async]
+pandas
+opencv-python
+itsdangerous
+werkzeug
+matplotlib
+seaborn
+tqdm
+faiss-gpu
+psycopg2
+esdk-obs-python==3.22.2
+pika
+timm
+ultralytics
+IPython
+Pillow
